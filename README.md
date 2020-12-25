@@ -3,8 +3,11 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies
+- 🌱 I’m currently learning Machine Learning and Data Scrapping.
 - 🎓 &nbsp; Studying Information Technology and Institute of Engineering Technology (davv) Indore.
 - ✍️ &nbsp; Love to solve bugs and also a problem solver
+- 😄 Pronouns: she/her
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
