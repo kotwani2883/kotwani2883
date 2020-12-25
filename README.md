@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies
-- 🎓 &nbsp; Studying Information Technology and Institute of Information Technology Indore.
+- 🎓 &nbsp; Studying Information Technology and Institute of Engineering Technology (davv) Indore.
 - ✍️ &nbsp; Love to solve bugs and also a problem solver
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -29,11 +29,11 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Dev C++](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Dev C++&logoColor=Yellow)
+  
   
 
 <br/>
-![github stats](https://github-readme-stats.vercel.app/api?username=kotwani2883_icons=true)
+
 
 
 <a href="https://github.com/kotwani2883">
@@ -46,7 +46,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://kotwani2883.github.io/MyPortfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://kotwani2883.github.io/MyPortfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-https://kotwani2883.github.io/MyPortfolio/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/palak-kotwani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/kotwani63/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="palakkotwani2883@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
