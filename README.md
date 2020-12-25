@@ -47,7 +47,7 @@
 
 <p align="center">
 <a href="https://kotwani2883.github.io/MyPortfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-https://kotwani2883.github.io/MyPortfolio/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/palak-kotwani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/palak-kotwani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Palak%20Kotwani-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/kotwani63/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="palakkotwani2883@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
