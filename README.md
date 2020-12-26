@@ -38,8 +38,8 @@
 
 
 <a href="https://github.com/kotwani2883">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kotwani2883&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotwani2883&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kotwani2883&theme=merko&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotwani2883&theme=merko&layout=compact" />
 </a>
 
 <br/>
